@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="52" started-at="2022-05-03T16:39:43 IST" finished-at="2022-05-03T16:39:43 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="52" started-at="2022-05-03T16:39:43 IST" finished-at="2022-05-03T16:39:43 IST">
+      <class name="testng.Sample1">
+        <test-method status="PASS" signature="boss()[pri:0, instance:testng.Sample1@59e5ddf]" name="boss" duration-ms="7" started-at="2022-05-03T16:39:43 IST" finished-at="2022-05-03T16:39:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- boss -->
+        <test-method status="PASS" signature="f()[pri:0, instance:testng.Sample1@59e5ddf]" name="f" duration-ms="1" started-at="2022-05-03T16:39:43 IST" finished-at="2022-05-03T16:39:43 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+      </class> <!-- testng.Sample1 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
